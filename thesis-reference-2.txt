@@ -1,0 +1,93 @@
+
+kapag may nakitang similar sa study, dapat may significant na pagkakaiba
+
+Problem and its' Statement
+- the frist and foremost steps happens to be that selecting and properly definiing a research
+Research Problem
+- refer some difficulty which a researcher experience in trhe context of either a theoretical or practical situation and wants to obtain a solutin for the same.
+- There must be at least two course of action to be pursued.
+- obtaining the objectives(statement of the problem)
+
+component of a research
+- has difficulty to the problem
+- has some objective
+- must remain doubt in the mind of a researcher
+- controversial subject should not be come the choice of an average reseacher
+- not too narrow or too broad
+
+selecting the problem
+- the subject selected for research should be familair and feasible so that the related researsch material or sources of research of reseasrh are within one's reach
+- selection of a problem must be preceded by a preliminary study(may basehan, bawal bias dito)
+
+Technique involved in defining a prboelm
+- statemetn fo the problem in a general way
+- understatnding the natire of the problem
+- surveying the avaible literature
+- developing the throufh discussions
+- rephrasing the research problem
+
+background of the study
+- proponent should describe the existing and prevailing problem situation based on his/her experience. The scope may be global, national, regional, and local
+- the proponent should give strong justification for selecting such reseasrch prpoblem in  his/her capacity as a researcher. Being a part of the organization or systems and the desire and concern to imporve the systems
+
+Hypothesis
+- is not a question. but rather it is a statement about the relation between two or more variables
+alternative hyp
+- goal is to accept or to reject the hypothesis
+- walang kinikilingan sa mga researches na katulad
+Experimental
+- kapag in-apply ko dito yung solution, ano dapat mangyayari.
+- may comparison between sa dating research sa solution(approach) na ginagawa
+- mas maganda na kayang imatch sa leading brand
+- 
+
+SPSS
+- tool for statistic
+
+Significant of the study
+- describe the contribution
+- bakit importante yung study
+- paano nakatulong yung study sa iba
+-
+
+RRL
+- may topic tas discuss lang
+- 
+
+Conceptual Framework
+- dapat may kaugnay sa statement of the problem
+- bawal i-base sa previous work or copyahin mismo
+- conte
+- no process
+- layman's term, non-tech view
+- relationship of one variable to other variables
+- backbone of the research
+- proof of concept
+- mga variables na nagaaffect sa concept
+- schematic diagram which show the variables
+
+two methods of conceptual framework
+- IPO (Input -> Process -> Output)
+ - kung paano mo ipinakita
+ - input variable, kapag pinrocess ano yung output
+- IV DV (Independent Variable -> Dependent Variable)
+- walang output
+
+sample
+research paradigm
+WRAP
+Input 		-> process (treatment)
+url 		-> structure
+structure 	-> url validity
+valid url 	-> keywords                               |-> WRAP
+          	|
+          	+-> images/embedded data
+keywords 	-> bad words, NG words, not friendly word
+images/embedded data -> bad image 
+
+Paradigm shift
+- kapag hindi feasible ang koncepto, magkakaroon ng shift
+
+
+
+

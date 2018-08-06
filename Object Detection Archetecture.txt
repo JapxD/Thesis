@@ -1,0 +1,1 @@
+image acquisition->image enhancement->image restoration->morphological processing->segmentation your pattern->object detection

@@ -1,0 +1,11 @@
+Background of the study should be narrative.
+Background of the study are made as to why we are doing the research study.
+Background of the study should feel that the research is important
+End the background of the study with a summary
+
+Conceptual describes research paradigm describe relationship of variable used in study
+Conceptual are affected by statement of the problem
+
+Precision Recall Accuracy and F-Measure
+
+Def of terms : define terms base on how it was used in the study
